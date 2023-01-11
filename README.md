@@ -1,3 +1,5 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/j0SkFkvliBDUPT4OVe/giphy.gif" width="600" height="300"/>
-</div>
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling:  Sole Buisness Owner of 2shotz LLC
+
+- :zap: In my free time,I like to make game scripts.
