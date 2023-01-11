@@ -2,7 +2,7 @@
 
 - ⚡: Sole Buisness Owner of 2shotz LLC 😃
 
-- ⚡: In my free time or whenever i can i make music.
+- ⚡: In my free time or whenever I make music.
 ---
 
 ### :hammer_and_wrench: Languages and Tools : 
