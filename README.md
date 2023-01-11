@@ -1,1 +1,4 @@
-<div class="tenor-gif-embed" data-postid="21413937" data-share-method="host" data-aspect-ratio="1.76796" data-width="100%"><a href="https://tenor.com/view/axxturel-jewelxxet-islurwhenitalk-gif-21413937">Axxturel Jewelxxet GIF</a>from <a href="https://tenor.com/search/axxturel-gifs">Axxturel GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <img src="![image](https://user-images.githubusercontent.com/82124103/211901408-31a381ba-60a1-4b14-8e42-caf8965a79aa.png)
+" width="600" height="300"/>
+</div>
