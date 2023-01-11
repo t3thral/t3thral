@@ -1,5 +1,3 @@
-Backend Dev - 2 years
---not too active anymore
-owner of 2shotz LLC
-I am fluent in the following languages:
-LuaU,Lua,Python,node.js, and a bit of HTML and java.
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
